@@ -97,7 +97,7 @@ Hi 👋, I'm Shraddha A Vaidya
 
 - **Python Programming** – Infosys Springboard  
 
-<h3>🌐 Let's Connect</h3>
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:shraddha23vaidya@gmail.com">
